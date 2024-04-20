@@ -1,0 +1,32 @@
+/* body {
+    height: 100vh;
+    display: flex;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.header {
+    background-color: #000000; // Couleur de fond de la header 
+    color: #fff; // Couleur du texte de la header 
+    padding: 10px; // Espace intérieur de la header 
+    position: fixed; // Fixer la position pour rester en haut de la page 
+    width: 100%; // Pleine largeur de la page 
+    top: 0; // Position en haut de la page 
+    z-index: 1000; // Z-index élevé pour être au-dessus du reste du contenu 
+}
+
+.logo-header{
+    text-align: left;
+    width: 20px;
+    align-items: center;
+}
+.wrapper{
+    text-align: center;
+}
+
+a{
+    color: white;
+    margin-top: 15px;
+    display: inline-block;
+} */
